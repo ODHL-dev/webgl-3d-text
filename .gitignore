@@ -1,0 +1,6 @@
+# Dépendeces
+node_modules/
+
+# Fichier de build local
+dist/
+build/
